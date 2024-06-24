@@ -78,7 +78,7 @@ const Login = () => {
             className="bg-cover bg-no-repeat w-full bg-center h-screen"
         >
             <Navbar></Navbar>
-            <h2 className=" md:py-24 text-4xl text-center font-bold text-purple-800">Pleasse login</h2>
+            <h2 className=" pt-24 text-4xl text-center font-bold text-purple-800">Pleasse login</h2>
 
             <div className="md:grid md:grid-cols-2 md:px-24">
                 <div className="md:ml-20 md:w-full">

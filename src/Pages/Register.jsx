@@ -83,7 +83,7 @@ const Register = () => {
         >
             <Navbar></Navbar>
 
-            <h2 className="text-4xl text-pink-600 font-bold text-center md:py-24"> Register Now!!!</h2>
+            <h2 className="text-4xl text-pink-600 font-bold text-center pt-24"> Register Now!!!</h2>
             <div className="md:grid md:grid-cols-2 md:ml-8">
                 <form onSubmit={handleRegister} className="card-body mx-auto text-center lg:w-1/2">
                     <div className="form-control">

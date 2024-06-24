@@ -13,7 +13,7 @@ const Data = ({ data }) => {
           
             data-aos="fade-up-right"
          data-aos-duration="2000"
-            className="card  bg-base-100 shadow-xl">
+            className="card  bg-base-100 shadow-xl ">
             <figure><img src={img} alt="Shoes" /></figure>
             <div className="card-body">
                 <h2 className="card-title">{title}</h2>

@@ -7,7 +7,7 @@ const SingleService = ({ aData }) => {
         <div
          data-aos="fade-down-right"
          data-aos-duration="2000"
-         className="card bg-base-100 shadow-xl image-full">
+         className="card bg-base-100 shadow-xl image-full mb-8">
             <figure><img src={img} alt="Shoes" /></figure>
             <div className="card-body">
                 <h2

@@ -56,9 +56,11 @@ const Navbar = () => {
                 <h2 className="hidden md:block md:font-bold md:mx-5">{
                     user && user.email
                 }</h2>
-                <button
-                    onClick={handleGoogleLogin}
-                    className="btn bg-[rgba(0,155,0,.5)] mr-5 text-white">Github <br />login</button>
+               {
+                 user ? '' : <button
+                 onClick={handleGoogleLogin}
+                 className="btn bg-[rgba(0,155,0,.5)] mr-5 text-white">Github <br />login</button>
+               }
                 {
                     user
                         ? <button className="btn md:text-xl font-bold bg-[rgba(176,184,186,.5)]" onClick={handleLogOut}>Log Out</button>
