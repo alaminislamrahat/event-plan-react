@@ -1,0 +1,79 @@
+[
+    {
+      "id": 1,
+      "occasion": "birthday",
+      "logo": "birthday_logo.png",
+      "color": "#FFD700", 
+      "img": "https://i.ibb.co/F80r5Bd/cute-little-boy-red-t-shirt-decorating-colorful-wall-with-happy-birthday-words-1.jpg",
+      "description": "Our birthday service is designed to make your special day unforgettable. Whether you’re celebrating a milestone or simply enjoying another year of life, our team ensures every detail is perfect. From personalized decorations to delectable cakes and entertainment that delights guests of all ages, we create an atmosphere filled with joy and laughter. Let us take care of the planning so you can focus on creating cherished memories with loved ones.",
+      "question": "What is your favorite birthday tradition?",
+      "ans": "My favorite tradition is [tradition].",
+      "question2": "How do you usually celebrate your birthday?",
+      "ans2": "We usually celebrate by [celebration method].",
+      "service":{
+        "one" : "Birthday preparations",
+        "two" : "Birthday",
+        "three" : "Decoration",
+        "four" : "Aranging food"
+      },
+      "price" : "$597"
+    },
+    {
+      "id": 2,
+      "occasion": "wedding",
+      "logo": "wedding_logo.png",
+      "color": "#87CEEB", 
+      "img": "https://i.ibb.co/G3Wh0Zk/medium-shot-bride-groom-posing-together-1.jpg",
+      "description": "Our wedding service is dedicated to crafting the perfect day for you and your beloved. From intimate ceremonies to grand receptions, we bring your vision to life with elegance and sophistication. Whether you dream of exchanging vows in a serene garden or dancing the night away in a lavish ballroom, our expert planners ensure every moment is seamless and unforgettable. Celebrate love surrounded by family and friends, knowing every detail is meticulously planned.",
+      "question": "What was the most memorable part of your wedding day?",
+      "ans": "The most memorable part was [moment].",
+      "question2": "Who gave the most emotional speech at your wedding?",
+      "ans2": "The most emotional speech was given by [person].",
+      "service":{
+        "one" : "Pre-wedding preparations",
+        "two" : "Wedding Day",
+        "three" : "Post-wedding",
+        "four" : "Wedding Consultation"
+      },
+      "price" : "$999"
+    },
+    {
+      "id": 3,
+      "occasion": "anniversary",
+      "logo": "anniversary_logo.png",
+      "color": "#FF6347", 
+      "img": "https://i.ibb.co/CwsM2qB/front-view-smiley-couple-with-cake-1.jpg",
+      "description": "Celebrate your anniversary with our personalized service that honors your journey together. Whether it’s your first or fiftieth anniversary, we create an atmosphere of romance and reflection. From intimate dinners to adventurous getaways, we tailor every detail to your unique love story. Cherish the moments that brought you closer and look forward to the future with a celebration that captures the essence of your enduring commitment.",
+      "question": "How many years have you been together?",
+      "ans": "We have been together for 10 years.",
+      "question2": "What is the secret to a lasting relationship?",
+      "ans2": "The secret is love.",
+      "service":{
+        "one" : "Decoration",
+        "two" : "Wedding Day",
+        "three" : "Aranging Food",
+        "four" : "Guest manage"
+      },
+      "price" : "$879"
+    },
+    {
+      "id": 4,
+      "occasion": "proposal",
+      "logo": "https://i.ibb.co/xGYgGnM/cute-paper-flowers-frame-white-background.jpg",
+      "color": "#008080", 
+      "img": "https://i.ibb.co/9ttYCm3/man-presenting-gift-box-woman-table-1.jpg",
+      "description": "Our proposal service is designed to create a magical moment that you’ll cherish forever. Whether you’re planning a grand gesture or a private declaration of love, we assist in every detail to ensure your proposal is as memorable as your love story. From selecting the perfect location to arranging surprise elements that capture their heart, let us help you make this moment extraordinary. Start your journey together with a proposal that’s as unique as your relationship.",
+      "question": "How did you know it was the right time to propose?",
+      "ans": "I knew it was the right time because I love you.",
+      "question2": "Where did you propose?",
+      "ans2": "I proposed at beach.",
+      "service":{
+        "one" : "Surprise plan",
+        "two" : "Proposal",
+        "three" : "Decorarion",
+        "four" : "Aranging food"
+      },
+      "price" : "$989"
+    }
+  ]
+  

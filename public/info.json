@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "Sarah's Birthday Bash",
+      "img": "https://i.ibb.co/7ygYC6t/7107984.jpg",
+      "email": "sarah@example.com",
+      "phone": "+1234567890",
+      "address": "123 Main St, Cityville",
+      "description": "Join us to celebrate Sarah's birthday with cake, music, and fun activities!"
+    },
+    {
+      "id": 2,
+      "title": "John's Surprise Birthday",
+      "img": "https://i.ibb.co/pWgTyrt/6869674.jpg",
+      "email": "john@example.com",
+      "phone": "+1987654321",
+      "address": "456 Elm St, Townsville",
+      "description": "Help us surprise John with a fantastic birthday party. Gifts and good times await!"
+    },
+    {
+      "id": 3,
+      "title": "Emily & Michael's Wedding",
+      "img": "https://i.ibb.co/jbwxq0f/9583320.jpg",
+      "email": "emily.michael@example.com",
+      "phone": "+1122334455",
+      "address": "789 Oak Ave, Villageton",
+      "description": "Join us in celebrating the union of Emily and Michael. Dinner, dance, and happiness!"
+    },
+    {
+      "id": 4,
+      "title": "Jessica & David's Romantic Wedding",
+      "img": "https://i.ibb.co/wLRrw9F/7708546.jpg",
+      "email": "jessica.david@example.com",
+      "phone": "+9988776655",
+      "address": "321 Maple Dr, Hamletsville",
+      "description": "Witness Jessica and David exchange vows in a beautiful garden setting. Love and joy abound!"
+    },
+    {
+      "id": 5,
+      "title": "Lucas's 1st Birthday",
+      "img": "https://i.ibb.co/xDN3137/8111258.jpg",
+      "email": "lucas@example.com",
+      "phone": "+5544332211",
+      "address": "567 Pine Lane, Suburbia",
+      "description": "Celebrate Lucas turning one with cake, games, and laughter. Bring your smiles and warm wishes!"
+    },
+    {
+      "id": 6,
+      "title": "Sophia's Sweet Sixteen",
+      "img": "https://i.ibb.co/rvVGhC5/6934667.jpg",
+      "email": "sophia@example.com",
+      "phone": "+6677889900",
+      "address": "876 Cedar Ave, Metropolis",
+      "description": "Come celebrate Sophia's milestone birthday with a glamorous party. Dancing and memories await!"
+    }
+  ]
+  
