@@ -59,7 +59,7 @@ const Navbar = () => {
                {
                  user ? '' : <button
                  onClick={handleGoogleLogin}
-                 className="btn bg-[rgba(0,155,0,.5)] mr-5 text-white">Github <br />login</button>
+                 className="btn bg-[rgba(0,155,0,.5)] mr-5 text-white">Google <br />login</button>
                }
                 {
                     user

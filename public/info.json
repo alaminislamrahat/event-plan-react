@@ -6,7 +6,8 @@
       "email": "sarah@example.com",
       "phone": "+1234567890",
       "address": "123 Main St, Cityville",
-      "description": "Join us to celebrate Sarah's birthday with cake, music, and fun activities!"
+      "description": "Join us to celebrate Sarah's birthday with cake, music, and fun activities!",
+      "color": "#FFD700"
     },
     {
       "id": 2,
@@ -15,7 +16,8 @@
       "email": "john@example.com",
       "phone": "+1987654321",
       "address": "456 Elm St, Townsville",
-      "description": "Help us surprise John with a fantastic birthday party. Gifts and good times await!"
+      "description": "Help us surprise John with a fantastic birthday party. Gifts and good times await!",
+      "color": "#87CEEB"
     },
     {
       "id": 3,
@@ -24,7 +26,8 @@
       "email": "emily.michael@example.com",
       "phone": "+1122334455",
       "address": "789 Oak Ave, Villageton",
-      "description": "Join us in celebrating the union of Emily and Michael. Dinner, dance, and happiness!"
+      "description": "Join us in celebrating the union of Emily and Michael. Dinner, dance, and happiness!",
+       "color": "#FF6347"
     },
     {
       "id": 4,
@@ -33,7 +36,8 @@
       "email": "jessica.david@example.com",
       "phone": "+9988776655",
       "address": "321 Maple Dr, Hamletsville",
-      "description": "Witness Jessica and David exchange vows in a beautiful garden setting. Love and joy abound!"
+      "description": "Witness Jessica and David exchange vows in a beautiful garden setting. Love and joy abound!",
+      "color": "#008080"
     },
     {
       "id": 5,
@@ -42,7 +46,8 @@
       "email": "lucas@example.com",
       "phone": "+5544332211",
       "address": "567 Pine Lane, Suburbia",
-      "description": "Celebrate Lucas turning one with cake, games, and laughter. Bring your smiles and warm wishes!"
+      "description": "Celebrate Lucas turning one with cake, games, and laughter. Bring your smiles and warm wishes!",
+      "color": "#FFD700"
     },
     {
       "id": 6,
@@ -51,7 +56,8 @@
       "email": "sophia@example.com",
       "phone": "+6677889900",
       "address": "876 Cedar Ave, Metropolis",
-      "description": "Come celebrate Sophia's milestone birthday with a glamorous party. Dancing and memories await!"
+      "description": "Come celebrate Sophia's milestone birthday with a glamorous party. Dancing and memories await!",
+      "color": "#FF6347"
     }
   ]
   

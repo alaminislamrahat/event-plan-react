@@ -1,7 +1,8 @@
 
 import { useEffect, useState } from 'react';
-import bg from '../../src/assets/25815.jpg'
+import bg from '../../src/assets/bg 5.jpg'
 import Data from './Data';
+
 
 
 
@@ -21,7 +22,7 @@ const Services = () => {
                 
                 
             }}>
-            <h2 className='text-center text-black text-xl md:text-6xl font-bold mb-9'>This is Our customers</h2>
+            <h2 className='text-center text-white text-xl md:text-6xl font-bold mb-9'>This is Our customers</h2>
             <div className='md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-4'>
                 { 
                     datas.map(data => <Data data={data} key={data.id}></Data>)

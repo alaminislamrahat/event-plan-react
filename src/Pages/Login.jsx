@@ -64,6 +64,7 @@ const Login = () => {
                     displayName: name
                 });
                 navigate(location?.state ? location.state : '/');
+                
 
 
             })
